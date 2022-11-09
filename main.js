@@ -1,5 +1,5 @@
-let i = 23
-while (i<=87) {
- console.log(i)
- i++
+let i = "*"
+while (i < "* * * * * * * * ") {
+console.log(i)
+i = i + " *"
 }
